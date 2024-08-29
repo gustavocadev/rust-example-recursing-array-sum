@@ -39,6 +39,7 @@ fn get_arr_sum3(books: Vec<i32>) -> i32 {
 }
 
 fn main() {
+  // image they're book prices!
   let numbers = vec![50, 100, 150];
 
   println!("{}", get_arr_sum3(numbers));
